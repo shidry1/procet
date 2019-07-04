@@ -31,4 +31,4 @@ case `uname` in
     ;;
 esac
 
-"$NODE_EXE" "$NPM_CLI_JS" "$@"
+"$NODE_EXE" "$NPM_CLI_JS" "$@"222
